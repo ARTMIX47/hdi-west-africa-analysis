@@ -65,4 +65,4 @@ Rwanda (GNI per capita of about $2,971) and Togo (about $2,856) reach HDI values
 
 ## Author
 
-[Aumeric Dumor] · Computer Science · [aumericd@gmail.com]
+Aumeric Dumor· Computer Science · aumericd@gmail.com
